@@ -37,7 +37,7 @@ Le modèle est robuste et fournit des visualisations interprétables via Grad-CA
 
 ## Contenu du repository
 - Dataset  
-- notebooks Jupyter  
+- Notebooks Jupyter  
 - Résultats et visualisations  
 - Rapport final PDF   
 
