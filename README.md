@@ -1,5 +1,3 @@
-# brain-tumor-classification-convnext
-Brain Tumor Classification using ConvNeXt and Transfer Learning (Deep Learning Project)
 # Détection et Classification de Tumeurs Cérébrales par ConvNeXt
 
 **Université Cadi Ayyad – Faculté des Sciences Semlalia, Marrakech**  
