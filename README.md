@@ -38,7 +38,7 @@ Le pipeline inclut :
 ---
 
 ## Contenu du repository
-- **Dataset** : dossiers Training et Testing  
+- **Dataset** : lien vers le dataset sur Kaggle 
 - **Notebooks Jupyter** :  
   - `01_exploration.ipynb`  
   - `02_preprocessing.ipynb`  
